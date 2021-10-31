@@ -1,0 +1,1 @@
+# android_device_samsung_gts4lv-common
